@@ -69,7 +69,7 @@ var cart=JSON.parse(localStorage.getItem("cartitem"))||[];
         spec3:"100+ cloud watch faces"
     },
     {
-        img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-1_6b720b9d-47f9-45d4-92b4-575058fb993b_300x.png?v=1626875709",
+        img: "https://www.boat-lifestyle.com/cdn/shop/products/2_54ba845b-0083-4d47-bb91-f62cf4d3c07c_600x.png?v=1671109443",
         name: "boAt Airpod 141",
         price:1399,
         stprice:"4490",

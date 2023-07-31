@@ -16,7 +16,7 @@ body{
     gap:30px;
     box-sizing: border-box;
 }
-#navbar>div>img{
+#navbar > div > img{
     height:100%;
     width:100%;
 }
@@ -28,11 +28,11 @@ body{
     grid-template-columns: auto auto auto auto;
     gap:20px;
 }
-#mnav>h4{
+#mnav > h4{
   border-left: 2px solid red;
   padding-left: 10px;
 }
-#mnav>select{
+#mnav > select{
     background-color: black;
     color:white;
     font-weight: bolder;
